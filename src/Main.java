@@ -13,6 +13,7 @@ public class Main {
 
         if (Party.equalsIgnoreCase("D")){
             System.out.println("You get a Democratic Donkey");
+
         }
 
         else if (Party.equalsIgnoreCase("R")) {
